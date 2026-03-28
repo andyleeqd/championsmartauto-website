@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "skills": {
+    "find": {
+      "version": "1.0.0",
+      "installedAt": 1772693231699
+    },
+    "multi-search-engine-2-0-1": {
+      "version": "1.0.0",
+      "installedAt": 1772696658148
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1773492934969
+    },
+    "automation-workflows": {
+      "version": "0.1.0",
+      "installedAt": 1773546254573
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1773546539546
+    },
+    "file-organizer-zh": {
+      "version": "1.0.0",
+      "installedAt": 1773550279517
+    },
+    "paddleocr-doc-parsing": {
+      "version": "2.0.7",
+      "installedAt": 1773645189494
+    },
+    "proactive-agent": {
+      "version": "3.1.0",
+      "installedAt": 1773649216023
+    }
+  }
+}

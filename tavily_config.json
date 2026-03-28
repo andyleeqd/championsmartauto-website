@@ -1,0 +1,14 @@
+{
+  "api_key": "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",
+  "default_depth": "advanced",
+  "max_results": 10,
+  "include_answer": true,
+  "include_images": false,
+  "timeout_seconds": 30,
+  "rate_limit": {
+    "requests_per_minute": 60,
+    "burst_limit": 10
+  },
+  "status": "configured",
+  "last_tested": "2026-03-05T09:45:00Z"
+}

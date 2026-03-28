@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "find": {
+      "version": "1.0.0",
+      "installedAt": 1774307045526
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1774307052830
+    },
+    "automation-workflows": {
+      "version": "0.1.0",
+      "installedAt": 1774307060424
+    },
+    "proactive-agent": {
+      "version": "3.1.0",
+      "installedAt": 1774307068883
+    }
+  }
+}

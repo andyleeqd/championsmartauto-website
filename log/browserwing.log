@@ -1,0 +1,43 @@
+{"level":"info","msg":"[Start] MCP server started","time":"2026-03-06 09:45:14"}
+{"level":"info","msg":"[loadMCPScripts] Loaded 0 MCP commands","time":"2026-03-06 09:45:14"}
+{"level":"info","msg":"[Start] Registered 21 executor tools","time":"2026-03-06 09:45:14"}
+{"level":"warning","msg":"[NewAgentManager] Failed to load LLM configuration: no available LLM configs (Please configure in LLM Management page)","time":"2026-03-06 09:45:14"}
+{"level":"info","msg":"[Info] Loaded 0 sessions from database","time":"2026-03-06 09:45:14"}
+{"level":"info","msg":"[startMCPWatcher] ✓ MCP command listener has started","time":"2026-03-06 09:45:14"}
+{"level":"info","msg":"[getDefaultBrowserConfig] detected browser environment: OS=linux, DISPLAY=, WAYLAND_DISPLAY=, headless=true","time":"2026-03-06 13:08:15"}
+{"level":"info","msg":"[SwitchInstance] Switched to stopped instance: 默认浏览器 (not running)","time":"2026-03-06 13:08:15"}
+{"level":"info","msg":"[startInstanceInternal] Starting browser instance: 默认浏览器 (local)","time":"2026-03-06 13:08:27"}
+{"level":"info","msg":"[startInstanceInternal] Starting local browser instance...","time":"2026-03-06 13:08:27"}
+{"level":"info","msg":"[startInstanceInternal] BinPath not specified, searching for system Chrome...","time":"2026-03-06 13:08:27"}
+{"level":"warning","msg":"[startInstanceInternal] No browser path found, will use launcher default (may download Chrome)","time":"2026-03-06 13:08:27"}
+{"level":"info","msg":"[startInstanceInternal] Checking and cleaning up lock files before launch...","time":"2026-03-06 13:08:27"}
+{"level":"info","msg":"[startInstanceInternal] Using user data directory: /home/lijia/.browserwing/default-profile","time":"2026-03-06 13:08:27"}
+{"level":"error","msg":"[StartBrowserInstance] Failed to start browser instance: failed to launch browser: [launcher] Failed to launch the browser, the doc might help https://go-rod.github.io/#/compatibility?id=os: /home/lijia/.cache/rod/browser/chromium-1321438/chrome: error while loading shared libraries: libnss3.so: cannot open shared object file: No such file or directory\n","time":"2026-03-06 13:09:23"}
+{"level":"info","msg":"[startInstanceInternal] Starting browser instance: 默认浏览器 (local)","time":"2026-03-06 13:15:34"}
+{"level":"info","msg":"[startInstanceInternal] Starting local browser instance...","time":"2026-03-06 13:15:34"}
+{"level":"info","msg":"[startInstanceInternal] BinPath not specified, searching for system Chrome...","time":"2026-03-06 13:15:34"}
+{"level":"warning","msg":"[startInstanceInternal] No browser path found, will use launcher default (may download Chrome)","time":"2026-03-06 13:15:34"}
+{"level":"info","msg":"[startInstanceInternal] Checking and cleaning up lock files before launch...","time":"2026-03-06 13:15:34"}
+{"level":"info","msg":"[startInstanceInternal] Using user data directory: /home/lijia/.browserwing/default-profile","time":"2026-03-06 13:15:34"}
+{"level":"error","msg":"[StartBrowserInstance] Failed to start browser instance: failed to launch browser: [launcher] Failed to launch the browser, the doc might help https://go-rod.github.io/#/compatibility?id=os: /home/lijia/.cache/rod/browser/chromium-1321438/chrome: error while loading shared libraries: libnss3.so: cannot open shared object file: No such file or directory\n","time":"2026-03-06 13:16:06"}
+{"level":"info","msg":"[Start] Starting browser...","time":"2026-03-06 13:16:06","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"info","msg":"[Start] Loaded 0 site-specific configurations","time":"2026-03-06 13:16:06","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"info","msg":"[Start] Using default configuration: 默认配置","time":"2026-03-06 13:16:06","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"info","msg":"[Start] Starting local Chrome browser...","time":"2026-03-06 13:16:06","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"info","msg":"[Start] Headless mode: true","time":"2026-03-06 13:16:06","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"info","msg":"[Start] Number of launch arguments: 6","time":"2026-03-06 13:16:06","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"info","msg":"[Start]   [1] disable-blink-features=AutomationControlled","time":"2026-03-06 13:16:06","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"info","msg":"[Start]   [2] excludeSwitches=enable-automation","time":"2026-03-06 13:16:06","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"info","msg":"[Start]   [3] no-first-run","time":"2026-03-06 13:16:06","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"info","msg":"[Start]   [4] no-default-browser-check","time":"2026-03-06 13:16:06","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"info","msg":"[Start]   [5] window-size=1920,1080","time":"2026-03-06 13:16:06","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"info","msg":"[Start]   [6] start-maximized","time":"2026-03-06 13:16:06","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"info","msg":"[Start] Checking and cleaning up lock files before launch...","time":"2026-03-06 13:16:06","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"info","msg":"[Start] ✓ Using user data directory: ./chrome_user_data","time":"2026-03-06 13:16:06","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"info","msg":"[Start] Starting browser process...","time":"2026-03-06 13:16:06","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"error","msg":"[Start] Failed to start browser, detailed error: [launcher] Failed to launch the browser, the doc might help https://go-rod.github.io/#/compatibility?id=os: /home/lijia/.cache/rod/browser/chromium-1321438/chrome: error while loading shared libraries: libnss3.so: cannot open shared object file: No such file or directory\n","time":"2026-03-06 13:16:38","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"error","msg":"[Error] Possible reasons:","time":"2026-03-06 13:16:38","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"error","msg":"[Error]   1. Incorrect Chrome path","time":"2026-03-06 13:16:38","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"error","msg":"[Error]   2. Insufficient permissions or invalid path for user data directory","time":"2026-03-06 13:16:38","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"error","msg":"[Error]   3. Chrome is being used by another process","time":"2026-03-06 13:16:38","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
+{"level":"error","msg":"[Start]   4. Blocked by system firewall or security software","time":"2026-03-06 13:16:38","trace_id":"e9748a6a-f14a-43be-9084-55dad3c59014"}
